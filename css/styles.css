@@ -75,7 +75,7 @@ ul {
     background-color:#ffa500;  /* orange */
 }
 .natl-sandwich {
-    background-color:#ff0000;  /* bright red */
+    background-color:#ff9a9a;  /* pale red */
 }
 .election {
     background-color:#9ab3ff;  /* pale blue */
@@ -96,10 +96,10 @@ ul {
     background-color:#d3d3d3;  /* light gray */
 }
 .natl-fastfood {
-    background-color:#00ff00;  /* dark green */
+    background-color:#9aff9a;  /* pale lime green */
 }
 .natl-takeahike {
-    background-color:#cd00cd;  /* strong magenta */
+    background-color:#ff68ff;  /* very light magenta */
 }
 .world-toilet {
     background-color:#ccff9a;  /* pale green */
@@ -114,7 +114,7 @@ ul {
     background-color:#ba9ce8;  /* very soft violet */
 }
 .natl-cake {
-    background-color:#00eeee;  /* pure cyan */
+    background-color:#89ffff;  /* very light cyan */
 }
 .thanksgiving {
     background-color:#ff7e6d;  /* very light red */
