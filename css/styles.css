@@ -43,7 +43,7 @@ h1 {
   line-height:25px;
 }
 .week {
-  background-color:#ffff00;  /* eaeaea = very light gray */
+  background-color:#ffff00;  /* yellow */
   height:75px;
   margin:0;
   text-align:left;
@@ -72,7 +72,7 @@ ul {
     background-color:#ff4d4d;  /* light red */
 }
 .daylight-savings-end {
-    background-color:#ffa500;  /* orange */
+    background-color:#ffdb9a;  /* pale orange */
 }
 .natl-sandwich {
     background-color:#ff9a9a;  /* pale red */
@@ -90,7 +90,7 @@ ul {
     background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .natl-pickle {
-    background-color:#ffff00;  /* yellow */
+    background-color:#ffff9a;  /* pale yellow */
 }
 .recycles {
     background-color:#d3d3d3;  /* light gray */
@@ -105,10 +105,10 @@ ul {
     background-color:#ccff9a;  /* pale green */
 }
 .smokeout {
-    background-color:#ffd700;  /* gold */
+    background-color:#ffef9a;  /* pale yellow */
 }
 .natl-stuffing {
-    background-color:#00ff00;  /* lime green */
+    background-color:#9aff9a;  /* pale lime green */
 }
 .natl-espresso {
     background-color:#ba9ce8;  /* very soft violet */
