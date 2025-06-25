@@ -1,6 +1,7 @@
-<!-- css/styles.css -->
+<!-- css/styles.css of 2025-11-nov making 2025-nov.bauska.org -->
+<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
-  font-family:Helvetica;
+  font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
 table {
   table-layout:fixed;
@@ -27,8 +28,8 @@ h1 {
 }
 /* padding-bottom:150px; */
 .copyright-notice {
-  color:#fff;
-  font-size:50%;
+  color:#fff;  /* white */
+  font-size:65%;  /* 50% */
   padding-right:50px;
   text-align:right;
   text-decoration:none;
@@ -43,13 +44,12 @@ h1 {
   line-height:25px;
 }
 .week {
-  background-color:#ffff00;  /* yellow */
+  background-color:#ffff00;  /* pure (or mostly pure) yellow */
   height:75px;
   margin:0;
   text-align:left;
   vertical-align:top;
 }
-
 .off-day {
   background-color:#ddd;  /* very light gray */
 }
